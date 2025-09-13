@@ -1,0 +1,8 @@
+streamlit
+pillow
+torch
+torchvision
+diffusers
+transformers
+torch
+Pillow
